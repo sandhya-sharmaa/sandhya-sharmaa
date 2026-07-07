@@ -3,31 +3,39 @@
 </p>
 <h1 align="center">Hi 👋, I'm Sandhya Sharma</h1>
 
+<h3 align="center">
+BSc CSIT Student • Python Learner • Future Software Engineer 🇳🇵
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=BSc+CSIT+Student;Learning+Python;Future+Software+Developer;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer+in+Progress;Learning+Something+New+Every+Day;Open+to+Collaboration!" />
 </p>
+
 <p align="center">
-  <a href="https://github.com/sandhya-sharmaa">
-    <img src="https://img.shields.io/badge/GitHub-sandhya--sharmaa-181717?style=for-the-badge&logo=github" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=sandhya-sharmaa&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 </p>
 
 ## 👩‍💻 About Me
 
-- 🎓 BSc CSIT Student
-- 💻 Learning Python and Software Development
-- 🌱 Currently improving my coding skills
-- 🚀 Aspiring Software Developer
-- 🇳🇵 Based in Nepal
+🎓 BSc CSIT Student (Tribhuvan University)
+
+🐍 Currently learning Python and Software Engineering
+
+🌱 Interested in Web Development, AI and Open Source
+
+🚀 Goal: Become a Full-Stack Software Engineer
+
+🇳🇵 Based in Nepal
+
+✨ I enjoy learning by building real projects.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript,mysql,git,github,vscode" />
+</p>
 
 ---
 
