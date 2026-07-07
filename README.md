@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandhya-sharmaa&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="Profile Views" />
+</p>
 <h1 align="center">Hi 👋, I'm Sandhya Sharma</h1>
 
 <p align="center">
@@ -36,7 +39,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sandhya-sharmaa&theme=tokyonight&hide_border=true"/>
 </p>
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandhya-sharmaa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 ---
 
 ⭐ Thanks for visiting my profile!
