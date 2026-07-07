@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandhya-sharmaa&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="Profile Views" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Sandhya Sharma</h1>
 
 <h3 align="center">
