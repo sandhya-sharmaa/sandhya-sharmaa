@@ -8,9 +8,10 @@
 </p>
 <p align="center">
   <a href="https://github.com/sandhya-sharmaa">
-    <img src="https://img.shields.io/badge/GitHub-sandhya--sharmaa-181717?style=for-the-badge&logo=github"</p> />
+    <img src="https://img.shields.io/badge/GitHub-sandhya--sharmaa-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
+
 ## 👩‍💻 About Me
 
 - 🎓 BSc CSIT Student
@@ -41,11 +42,13 @@
   <img src="https://streak-stats.demolab.com?user=sandhya-sharmaa&theme=tokyonight&hide_border=true"/>
 </p>
 
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sandhya-sharmaa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
+
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
