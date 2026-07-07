@@ -3,6 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=BSc+CSIT+Student;Learning+Python;Future+Software+Developer;Welcome+to+my+GitHub!" />
 </p>
+<p align="center">
+  <a href="https://github.com/sandhya-sharmaa">
+    <img src="https://img.shields.io/badge/GitHub-sandhya--sharmaa-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 # Hi there, I'm Sandhya 👋
 
 🎓 BSc CSIT Student
