@@ -8,15 +8,16 @@
 </p>
 <p align="center">
   <a href="https://github.com/sandhya-sharmaa">
-    <img src="https://img.shields.io/badge/GitHub-sandhya--sharmaa-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-sandhya--sharmaa-181717?style=for-the-badge&logo=github"</p> />
   </a>
 </p>
-# Hi there, I'm Sandhya 👋
+## 👩‍💻 About Me
 
-🎓 BSc CSIT Student
-💻 Learning Python & Software Development
-🌱 Currently improving my coding skills
-🚀 Aspiring Software Developer
+- 🎓 BSc CSIT Student
+- 💻 Learning Python and Software Development
+- 🌱 Currently improving my coding skills
+- 🚀 Aspiring Software Developer
+- 🇳🇵 Based in Nepal
 
 ---
 
@@ -39,6 +40,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sandhya-sharmaa&theme=tokyonight&hide_border=true"/>
 </p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -46,4 +48,4 @@
 </p>
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
