@@ -112,5 +112,5 @@ I'm currently building projects to strengthen my programming skills.
 
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐ <br><br>
-If you like my work, don't forget to ⭐ my repositories!
+If you like my work don't forget to ⭐ my repositories!
 </p>
